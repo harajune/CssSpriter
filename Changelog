@@ -1,3 +1,8 @@
+2010-03-13  harajune <harajune@gijutsuya.jp>
+
+	* todo: Tsumekomiクラスを真面目に長方形詰め込み問題の開放を使う
+	* todo: Cssのurl()で指定されている画像に関して未対応なので対応する
+
 2010-03-12  harajune <harajune@gijutsuya.jp>
 
 	* memo: とりあえず作成。ファイルのパースとよみこみ完成
